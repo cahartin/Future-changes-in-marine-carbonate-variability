@@ -2,6 +2,7 @@ untitled.html
 8fbapmkokg.html
 figures/amplitude_tsereis
 mf2ki2amic8.html
+figures/min_t
 3hbujqcp2mg.html
 figures/Monthly_pH
 qvkbr7qmdeg.html
