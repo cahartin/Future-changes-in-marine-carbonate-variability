@@ -2,6 +2,8 @@ untitled.html
 8fbapmkokg.html
 mf2ki2amic8.html
 3hbujqcp2mg.html
+figures/Monthly_pH
+qvkbr7qmdeg.html
 t37cq0npk5o.html
 e65olh04r98.html
 figures/Monthly_spco2
