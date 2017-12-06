@@ -4,7 +4,6 @@ figures/amplitude_tsereis
 mf2ki2amic8.html
 figures/min_t
 3hbujqcp2mg.html
-figures/max_t
 jq4h129nc9.html
 figures/Monthly_pH
 qvkbr7qmdeg.html
