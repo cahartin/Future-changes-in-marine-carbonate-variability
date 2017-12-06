@@ -6,3 +6,5 @@ t37cq0npk5o.html
 e65olh04r98.html
 figures/Monthly_spco2
 96bi09qt8m8.html
+figures/Monthly_tos
+72vflv3rf4.html
