@@ -1,6 +1,5 @@
 untitled.html
 8fbapmkokg.html
-figures/fig_2
 figures/amplitude_tsereis
 mf2ki2amic8.html
 3u5ctt1p9k.html
