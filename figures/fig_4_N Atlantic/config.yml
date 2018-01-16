@@ -1,0 +1,19 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/fig_4_N Atlantic/fig_4_N Atlantic.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/170481/articles/214843/master/file/figures/fig_4_N%20Atlantic/fig_4_N%20Atlantic.png"
