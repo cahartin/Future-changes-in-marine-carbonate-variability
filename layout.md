@@ -2,7 +2,6 @@ untitled.html
 8fbapmkokg.html
 figures/fig_2
 llj48dmkjh8.html
-figures/fig_4_N Atlantic
 m0sc26e1958.html
 figures/amplitude_tsereis
 mf2ki2amic8.html
