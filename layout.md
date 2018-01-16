@@ -3,6 +3,7 @@ untitled.html
 figures/fig_2
 figures/amplitude_tsereis
 mf2ki2amic8.html
+3u5ctt1p9k.html
 figures/min_t
 3hbujqcp2mg.html
 figures/max_t
